@@ -1,1 +1,1 @@
-print('master version 2')
+print('branch b2 version 1')
